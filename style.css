@@ -1,0 +1,21 @@
+body {
+	background: url(img/bg.gif) repeat;
+}
+
+div {
+	background: url(img/fade.png) no-repeat;
+	height: 367px;
+	width: 367px;
+	margin: 85px auto;
+}
+
+h1 {
+	background: url(img/logo.png) no-repeat;
+	height: 247px;
+	width: 247px;
+	text-indent: -9999em;
+	margin: 60px;
+	position: absolute;
+}
+
+p { display: none; }
